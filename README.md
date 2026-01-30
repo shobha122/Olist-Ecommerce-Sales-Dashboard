@@ -74,6 +74,10 @@ Source: Kaggle (Public Dataset)
 
 ---
 
+## Dataset Source: 
+https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
+
+
 ## ⭐ Author
 Created by: Shobha Vishwakarma
 Aspiring Business Analyst
