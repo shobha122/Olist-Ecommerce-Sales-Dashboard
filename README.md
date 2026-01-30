@@ -33,7 +33,7 @@ This dashboard solves these questions with interactive analytics.
 ✔ Monthly Revenue Trend Analysis  
 ✔ Orders Distribution by State (Map View)  
 ✔ Payment Type Contribution (Pie Chart)  
-✔ Interactive Filters (Slicers): Year, Category, Payment Type, State  
+✔ Interactive Filters (Slicers): Year, Category, Payment Type, State 
 
 ---
 
