@@ -67,13 +67,6 @@ Source: Kaggle (Public Dataset)
 
 ---
 
-## ▶ How to Run
-1. Open the `.pbix` file in Power BI Desktop  
-2. Refresh data and explore dashboard  
-3. Run Python notebook for analysis
-
----
-
 ## Dataset Source: 
 https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
 
